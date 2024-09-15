@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './index.css'
+import './02-react-components/Message/index.tsx'
 
 /**
  * @description 不使用非空断言的写法

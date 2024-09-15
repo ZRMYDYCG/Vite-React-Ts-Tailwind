@@ -10,6 +10,8 @@ function App() {
         <TsxBasicGrammar />
         <hr />
         <Index />
+        <hr />
+        <button onClick={() => window.onShow()}>调用MessageBox组件</button>
     </>
   )
 }
