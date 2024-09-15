@@ -1,3 +1,10 @@
+/**
+ * @Author: ZRM
+ * @Date: 2024-09
+ * @LastEditors: ZRM
+ * @LastEditTime: 2024-09
+ * @Description: tsx 基础语法
+*/
 const TsxBasicGrammar = () => {
     // 使用 tsx 绑定变量
     const num = 333
